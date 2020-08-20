@@ -10,6 +10,8 @@ public class RedisTestApplication {
 
 
 
+        
+
         SpringApplication.run(RedisTestApplication.class, args);
     }
 
