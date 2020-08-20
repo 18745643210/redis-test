@@ -1,0 +1,4 @@
+.idea/
+*.iml
+target
+risk-aml-pro-repository/src/main/resources/generatorConfig.xml
