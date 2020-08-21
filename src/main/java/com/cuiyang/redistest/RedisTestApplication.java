@@ -7,10 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RedisTestApplication {
 
     public static void main(String[] args) {
-
-
-        System.out.println("testgit");
-
         SpringApplication.run(RedisTestApplication.class, args);
     }
 
